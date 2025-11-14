@@ -1,0 +1,3 @@
+﻿  loader.cpp
+C:\Users\admin\source\repos\shell_header\loader\loader.cpp(12,10): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  loader.vcxproj -> C:\Users\admin\source\repos\shell_header\x64\Debug\loader.exe
